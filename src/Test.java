@@ -4,7 +4,7 @@ public class Test {
 
 
     public String newStr(){
-        return "ahahahaha";
+        return "ahahahaaha";
     }
 
     public void hello() {
