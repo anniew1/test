@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Jasmine printed");
         System.out.println("hello");
         System.out.println("randomstufdjwaildjilwajildjlwia");
+        System.out.println("DWAJDWLAJDIWLAJDWIOALJDDDDDDDDWAL");
+        System.out.println("The Earth is flat.");
     }
 }
